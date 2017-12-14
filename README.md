@@ -10,3 +10,5 @@ https://www.cnblogs.com/JohnTsai/p/4052676.html
 ![image](https://github.com/albertizzy/LifeCycle/blob/master/screenshot/Fragment_1.png)
 
 ![image](https://github.com/albertizzy/LifeCycle/blob/master/screenshot/Fragment_2.png)
+
+https://www.cnblogs.com/purediy/p/3276545.html
