@@ -5,7 +5,6 @@
 ![image](https://github.com/albertizzy/LifeCycle/blob/master/screenshot/Activity.png)
 
 https://www.cnblogs.com/JohnTsai/p/4052676.html
-
 ###### Fragment
 ![image](https://github.com/albertizzy/LifeCycle/blob/master/screenshot/Fragment_1.png)
 
