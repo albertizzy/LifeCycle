@@ -1,5 +1,4 @@
-# LifeCycle
-生命周期
+# LifeCycle 生命周期
 
 ## Activity
 ![image](https://github.com/albertizzy/LifeCycle/blob/master/screenshot/Activity.png)
