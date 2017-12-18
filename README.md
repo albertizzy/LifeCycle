@@ -1,11 +1,11 @@
 # LifeCycle
 生命周期
 
-###### Activity
+#### Activity
 ![image](https://github.com/albertizzy/LifeCycle/blob/master/screenshot/Activity.png)
 
 https://www.cnblogs.com/JohnTsai/p/4052676.html
-###### Fragment
+##### Fragment
 ![image](https://github.com/albertizzy/LifeCycle/blob/master/screenshot/Fragment_1.png)
 
 ![image](https://github.com/albertizzy/LifeCycle/blob/master/screenshot/Fragment_2.png)
