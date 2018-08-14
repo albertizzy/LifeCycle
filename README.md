@@ -2,6 +2,7 @@
 
 ## Activity
 ![image](https://github.com/albertizzy/LifeCycle/blob/master/screenshot/Activity.png)
+![image](https://github.com/albertizzy/LifeCycle/blob/master/screenshot/Activity_cn.png)
 
 https://www.cnblogs.com/JohnTsai/p/4052676.html
 ## Fragment
